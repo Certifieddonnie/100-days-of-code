@@ -16,5 +16,16 @@
 
 **Link to work:** [Advanced Maths Calculator](https://github.com/Certifieddonnie/Advanced_Maths_Calculator/tree/Donald)
 
+### Day 3: September 28 2022
+
+**Today's Progress:** Went into Learning and Study. I had to look into Django Framework. 
+
+**Thoughts:** I had to make time for myself to study. I felt pressured a bit, but I shook it off and faced it. Really Learnt a lot. But I still
+need to set up the program well on my Laptop. Then I will begin working with it.
+
+
+**Link to work:** [Django Tutorial Site](https://www.google.com/amp/s/www.geeksforgeeks.org/django-tutorial/amp/)
+
+
 **Link(s) to work**
 1. [Advanced Maths Calculator](https://github.com/Certifieddonnie/Advanced_Maths_Calculator)
