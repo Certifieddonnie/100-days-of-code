@@ -9,3 +9,6 @@ Started a Calculator App. The Link to the Project https://github.com/Certifieddo
 
 ### R1D2
 Continued my work on the Calculator➕. The Link to the Project https://github.com/Certifieddonnie/Advanced_Maths_Calculator
+
+### R1D3
+Learning Python Django Framework. The Link to the tutorial site https://www.google.com/amp/s/www.geeksforgeeks.org/django-tutorial/amp/
