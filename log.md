@@ -26,6 +26,26 @@ need to set up the program well on my Laptop. Then I will begin working with it.
 
 **Link to work:** [Django Tutorial Site](https://www.google.com/amp/s/www.geeksforgeeks.org/django-tutorial/amp/)
 
+### Day 4: September 29 2022
+
+**Today's Progress:** Studying Python Django
+
+**Thoughts:** I was able to learn the basics of django.
+
+### Day 5: September 30 2022
+
+**Today's Progress:** I was a bit tired and stressed out so I didn't study.
+
+**Thoughts:** I felt I needed the rest. My Health is more important for me to stay in this coding race.
+
+### Day 6: October 1 2022
+
+**Today's Progress:** I worked over night till this morning. I felt the urge to study more and I was able to achieve that.
+
+**Thoughts:** I slept late and woke up too early though. But I was happy I achieved something over night. I had issues pushing my work to github but I later got it.
+
+**Link to work:** [Django Tutorial Site](https://www.google.com/amp/s/www.geeksforgeeks.org/django-tutorial/amp/)
+
 
 **Link(s) to work**
 1. [Advanced Maths Calculator](https://github.com/Certifieddonnie/Advanced_Maths_Calculator)
