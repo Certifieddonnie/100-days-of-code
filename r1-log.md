@@ -12,3 +12,12 @@ Continued my work on the Calculator➕. The Link to the Project https://github.c
 
 ### R1D3
 Learning Python Django Framework. The Link to the tutorial site https://www.google.com/amp/s/www.geeksforgeeks.org/django-tutorial/amp/
+
+### R1D4
+Learning Python Django Framework.
+
+### R1D5
+Learning Django Framework. How to Create Apps and Projects
+
+### R1D6
+Continued my Tutorial on Creating Apps. The Link to the tutorial site https://www.google.com/amp/s/www.geeksforgeeks.org/django-tutorial/amp/
