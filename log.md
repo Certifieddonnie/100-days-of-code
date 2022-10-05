@@ -46,6 +46,32 @@ need to set up the program well on my Laptop. Then I will begin working with it.
 
 **Link to work:** [Django Tutorial Site](https://www.google.com/amp/s/www.geeksforgeeks.org/django-tutorial/amp/)
 
+### Day 7: October 2 2022
+
+**Today's Progress:** Still Learning DJango.
+
+**Thoughts:** I just need to learn to deliver well.
+
+### Day 8: October 3 2022
+
+**Today's Progress:** Django Tutorial.
+
+**Thoughts:** 🏃🏃Learning Fast. Haven't started implementing on the project though.
+
+### Day 9: October 4 2022
+
+**Today's Progress:** Didnt study today. Occupied with work's project.
+
+**Thoughts:** I was really fatigued today after I finished the tasks of today at work. Will have to make up for it tomorrow.
+
+### Day 10: October 5 2022
+
+**Today's Progress:** Studied Data Structures and Algorithm on Jenny's YouTube tutorial. It felt useful in what I am going to do. 
+
+**Thoughts:** I feel ignited having to know this. So going to be helpful.
+
+**Link to work** [Jenny's data structure tutorial](https://www.google.com/search?q=jenny%27s+youtube+tutorial&oq=jenny%27s+youtube+tutorial&aqs=chrome..69i57j0i22i30j0i10i15i22i30j0i22i30l4.18166j0j7&sourceid=chrome-mobile&ie=UTF-8)
+
 
 **Link(s) to work**
 1. [Advanced Maths Calculator](https://github.com/Certifieddonnie/Advanced_Maths_Calculator)
