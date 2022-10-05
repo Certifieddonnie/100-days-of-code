@@ -21,3 +21,16 @@ Learning Django Framework. How to Create Apps and Projects
 
 ### R1D6
 Continued my Tutorial on Creating Apps. The Link to the tutorial site https://www.google.com/amp/s/www.geeksforgeeks.org/django-tutorial/amp/
+
+### R1D7
+Learning Django 
+
+### R1D8
+Learning Django
+
+### R1D9
+Didnt Work today.
+
+### R1D10
+Learnt Data Structure and Algorithm (Infix,Prefix and Postfix)
+
